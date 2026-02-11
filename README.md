@@ -10,3 +10,7 @@ This project demonstrates modern frontend development practices including:
 - Clean UI structure
 
 The application is designed as a learning project and showcases how an e-commerce flow can be implemented using React.
+
+
+
+!!! ------------- npm run deploy
